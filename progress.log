@@ -3,3 +3,4 @@
 [2026-03-12] #0003  Added edge-case handling  // docs: add learning objectives for personal finance modu
 [2026-03-12] #0004  Added early-return pattern  // feat: add compound interest calculation notebook
 [2026-03-12] #0005  Added type hints  // feat: add investment portfolio analysis notebook
+[2026-03-12] #0006  Optimised query performance  // docs: add README with NotebookLM methodology
