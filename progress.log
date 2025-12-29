@@ -7,3 +7,4 @@
 [2026-03-12] #0007  Improved variable naming  // feat: add risk vs return visualization notes
 [2026-03-12] #0008  Extracted helper function  // docs: add glossary of financial terms
 [2026-03-12] #0009  Simplified loop with list comprehension  // feat: add Monte Carlo simulation concept notes
+[2026-03-12] #0010  Added early-return pattern  // refactor: reorganize notebooks by topic
