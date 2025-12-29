@@ -5,3 +5,4 @@
 [2026-03-12] #0005  Added type hints  // feat: add investment portfolio analysis notebook
 [2026-03-12] #0006  Optimised query performance  // docs: add README with NotebookLM methodology
 [2026-03-12] #0007  Improved variable naming  // feat: add risk vs return visualization notes
+[2026-03-12] #0008  Extracted helper function  // docs: add glossary of financial terms
