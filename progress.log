@@ -9,3 +9,4 @@
 [2026-03-12] #0009  Simplified loop with list comprehension  // feat: add Monte Carlo simulation concept notes
 [2026-03-12] #0010  Added early-return pattern  // refactor: reorganize notebooks by topic
 [2026-03-12] #0011  Extracted helper function  // docs: add study guide for fixed income instruments
+[2026-03-12] #0012  Patched edge case in parser  // feat: add stock market basics notebook
