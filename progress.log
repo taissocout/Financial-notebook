@@ -13,3 +13,4 @@
 [2026-03-12] #0013  Added type hints  // docs: add references to CVM and B3 documentation
 [2026-03-12] #0014  Improved error messages  // style: normalize markdown formatting across notebooks
 [2026-03-12] #0015  Updated inline documentation  // feat: add personal budget template notebook
+[2026-03-12] #0016  Optimised query performance  // docs: update README with Riachuelo bootcamp context
