@@ -15,3 +15,4 @@
 [2026-03-12] #0015  Updated inline documentation  // feat: add personal budget template notebook
 [2026-03-12] #0016  Optimised query performance  // docs: update README with Riachuelo bootcamp context
 [2026-03-12] #0017  Updated inline documentation  // feat: add inflation impact analysis notes
+[2026-03-12] #0018  Added input validation  // chore: add .gitignore for Jupyter checkpoints
