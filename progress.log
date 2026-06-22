@@ -1,0 +1,19 @@
+[2026-03-12] #0001  Added edge-case handling  // docs: atualizar README com bootcamp Riachuelo Cybersecu
+[2026-03-12] #0002  Added input validation  // chore: initialize Financial-notebook project
+[2026-03-12] #0003  Added edge-case handling  // docs: add learning objectives for personal finance modu
+[2026-03-12] #0004  Added early-return pattern  // feat: add compound interest calculation notebook
+[2026-03-12] #0005  Added type hints  // feat: add investment portfolio analysis notebook
+[2026-03-12] #0006  Optimised query performance  // docs: add README with NotebookLM methodology
+[2026-03-12] #0007  Improved variable naming  // feat: add risk vs return visualization notes
+[2026-03-12] #0008  Extracted helper function  // docs: add glossary of financial terms
+[2026-03-12] #0009  Simplified loop with list comprehension  // feat: add Monte Carlo simulation concept notes
+[2026-03-12] #0010  Added early-return pattern  // refactor: reorganize notebooks by topic
+[2026-03-12] #0011  Extracted helper function  // docs: add study guide for fixed income instruments
+[2026-03-12] #0012  Patched edge case in parser  // feat: add stock market basics notebook
+[2026-03-12] #0013  Added type hints  // docs: add references to CVM and B3 documentation
+[2026-03-12] #0014  Improved error messages  // style: normalize markdown formatting across notebooks
+[2026-03-12] #0015  Updated inline documentation  // feat: add personal budget template notebook
+[2026-03-12] #0016  Optimised query performance  // docs: update README with Riachuelo bootcamp context
+[2026-03-12] #0017  Updated inline documentation  // feat: add inflation impact analysis notes
+[2026-03-12] #0018  Added input validation  // chore: add .gitignore for Jupyter checkpoints
+[2026-03-12] #0019  Added guard clause  // docs: add active learning methodology section
